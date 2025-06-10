@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../assents/background.png");
+    background-size: cover;
+    color: whitesmoke;
+
+}
+main{
+    margin: 24px auto;
+    background-color: black;
+    height: 100vh;
+}
+h1{
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 20px 0;
+}
